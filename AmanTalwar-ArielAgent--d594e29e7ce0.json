@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "amantalwar-arielagent--kxghjb",
+  "private_key_id": "d594e29e7ce0281a3714abfad3289f37864310dc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDODtHHbEudQtjf\nY4F3C/GmvMeVvM2V8GAH752oh4sqkiWQGeEPRpBqSIXYGcvgORAp2pkUkK6mEG+u\nhqGQsTsN1e+fsCLE62B0p3zFyoVZzbDUvGWoa2TfW3Tkez3gRyziFJRX4La5sW6/\nBy8BbZyribC+FVZHGXyaLlpDYY+qqs8V3Q+CSMphh7iWlrUuNhv8aGBT2Bz2km1l\nMV0SqQp9TcyV+3oWwMiq455sOk2o2bSGJHqoyqqQHyuZixPfKje2qM5RGSplVWaa\neQyz/hsKLOWCtD0Ymdks9tTldX0Vv/spxl7W5PqHrihytAYKQboYaAkoZhhBlmll\nRGGdB8JZAgMBAAECggEAAlmnDzxFYB+1fdX+/9D559mK8fDkxQAhLrZvHU9mWSC+\nrz1HqFnDwbbMdazYbLWDPblpQt5iMgMNHmDD+h9TJUILZJx/+T5r+DreFr5hIdkt\n5Ohgr9a6g+5E9SqREnNU7XUH05y1l32/ExqeYpb3K89OzCHGwK9SIsPixc9G2Qe/\nxUW6ou4E3sgIJh/2wr9hz5ii6sx9NqHpQsh2oW6Oww43wXRs++DlTZxsP4Xv5jhY\nvpSp/gbqopj59bAlDw070khgCsRwAe/D/DT7UgC3hZ//6/3TFh2x9IggtOXiWx30\nCIMPYTRtu2D8pVcIGH0bkwRXM/DCQYHgqvcvXqyE4QKBgQDv1uc7qAKujiBSbpM6\nsO/sdIjwjHMsW914MevNJ4DlJPn75U4diNY+97v0GZpsJGd5PLgnzTVIPp2RkLor\nctT1v4mcPZUqDkiBcSFgNIefyZ1rpRCsNn30uKCy0I5iYFmqwGsGlqq3mMKg3Kgb\n8HkZNxEE5VfXYSXHat4keQuuYQKBgQDb8TPu+loeAZFZLIle6ezNQqSdmmsr9GO4\nvPZ4FKWQywXT0WmTdNs7AfeXFg+SFX942VIF0dSLe49ZEYI/aHEZZQsYx2kxknBt\nUkyiO8gPQ1S4PkIIMRU5EcrXpR47o4IvM+l7p5DK/ilfUXhw9IzR8g9sstT0KP7a\nzFCOogDm+QKBgQDBDSpzSnleJ+i8cWTxCRsWKXdQqLzMJ+XMqeIz8GhACdNuftSx\n0UMizCXuBe3WvjbLz6Qr5XHOBRiv4t73uibQ6KvLp4Y5o+WYy4ch+SZx58deri8N\nb49TPImdZWI2rXd/igKb+wrPXZbMBNEMLDRNp5V7a1+ZbgkKy2qj0QsmAQKBgDoo\n1CTTitT4cSj1f/XbQcUdZE5QsRpUa7JENaCXRRi+tvHGJHbbpcU6xe/r434rtSON\nxATJ8bxYlhVlbd26jn26nG6W/JghMx2Vb7JOwJ5YnaSCwg9Me2I19D+F6DK5EAnP\nXmRWcRFcmDAeaQzlff9eVPnXaDyQQqQ09vBgooBxAoGAaOEXu2fEudL63i3NJALR\ni6WaAhoEhHMkDGRIdexInrozldVB9lqYhisTYhbCaqLYSo2P/n2fUb2nWgezZsPE\nxmpaxhvmTRA5sbEakHSHX88i/a4Cu0pUmmIyOCu6nQrG89jDelarw1jCKREdjxRV\nP7dOiAHwqdsGHu6WZPbObyQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-owhaab@amantalwar-arielagent--kxghjb.iam.gserviceaccount.com",
+  "client_id": "113609530602097961672",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-owhaab%40amantalwar-arielagent--kxghjb.iam.gserviceaccount.com"
+}
